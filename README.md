@@ -230,6 +230,15 @@ git push origin main
 📧 muhiakelvin254@gmail.com  
 💬 Telegram: [@kwevo_black](https://t.me/kwevo_black)
 
+*Designer & Developer:* Kelvin Muhia
+
+*Email:* muhiakelvin254@gmail.com
+
+*Portfolio:* Add your portfolio link
+
+*GitHub:* muhia-kelvin254.he/him
+
+*LinkedIn:* linkedln.com/in/kelvin-muhia
 > 💼 Available for freelance web design & development projects.  
 > _We design and develop websites that look great, build trust, and help your business grow — all at a fair price._
 
@@ -237,5 +246,5 @@ git push origin main
 
 ## 📄 License
 
-This project is built as a client portfolio piece. All design work is original.  
+This project is built muhia-kelvin;s portfolio piece. All design work is original.  
 © 2026 BurgerHub. All rights reserved.
